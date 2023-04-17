@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yeongil Yoon (@askme143)
 - 👀 I’m interested in `program language`, `software engineering`, and `mathmatics`
-- 🌱 I’m currently learning `program verification`, `differential geometry`
+- 🌱 I’m currently learning `about compiler`, `about abstract algebra stuffs`
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me
   - mail: yeongil.yoon@kaist.ac.kr
